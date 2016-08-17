@@ -7,3 +7,6 @@ class Solution(object):
             if c==s1[i]:
                 i += 1
         return i==len(s1)
+        
+    def canConstruct(self, ransomNote, magazine):
+        return not collections.Counter(ransomNote) - collections.Counter(magazine)
