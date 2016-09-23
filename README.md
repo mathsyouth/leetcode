@@ -7,3 +7,4 @@
 5. [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 6. [344. Reverse String](https://leetcode.com/problems/reverse-string/)
 7. [342. Power of Four](https://leetcode.com/problems/power-of-four/)
+8. [326. Power of Three](https://leetcode.com/problems/power-of-three/)
