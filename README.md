@@ -10,3 +10,4 @@
 8. [326. Power of Three](https://leetcode.com/problems/power-of-three/)
 9. [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 10. [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
+11. [292. Nim Game](https://leetcode.com/problems/nim-game/)
