@@ -8,3 +8,4 @@
 6. [344. Reverse String](https://leetcode.com/problems/reverse-string/)
 7. [342. Power of Four](https://leetcode.com/problems/power-of-four/)
 8. [326. Power of Three](https://leetcode.com/problems/power-of-three/)
+9. [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
