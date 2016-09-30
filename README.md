@@ -14,3 +14,4 @@
 12. [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
 13. [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 14. [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
+15. [263. Ugly Number](https://leetcode.com/problems/ugly-number/)
