@@ -8,3 +8,6 @@ class Solution(object):
             while num % prime == 0 < num:
                 num /= prime
         return num == 1
+    
+    def isUgly(self, num):
+        return num > 0 == 30**32 % num
