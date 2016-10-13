@@ -1,4 +1,4 @@
-## MAXIMUM SUBSEQUENCE SUM PROBLEM:
+## Maximum Subsequence Sum Problem:
 Given (possibly negative) integers a_1 , a_2 , . . . , a_n , find the maximum value of a_i + a_(i+1) + ... + a_j. 
 (For convenience, the maximum subsequence sum is 0 if all the integers are negative.)
 
